@@ -1,0 +1,24 @@
+SMAP
+loginjsp_jsp.java
+JSP
+*S JSP
+*F
++ 0 loginjsp.jsp
+view/user/loginjsp.jsp
++ 1 header.jsp
+view/user/../component/header.jsp
++ 2 footer.jsp
+view/user/../component/footer.jsp
+*L
+1,41:60
+1#1,40:101
+40:269,8
+41,10:277
+50,2:143
+51:305,8
+52,4:313
+55,12:147
+41#0,52:158
+5#2,38:210
+92#0,5:247
+*E
